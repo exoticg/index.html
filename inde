@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting</title>
+    <script type="text/javascript">
+        window.location.href = "sms:1234567890&body=Hello%2C%20how%20are%20you%3F";
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, <a href="sms:1234567890&body=Hello%2C%20how%20are%20you%3F">click here</a>.</p>
+</body>
+</html>
